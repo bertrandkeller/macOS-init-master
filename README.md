@@ -40,11 +40,3 @@ Voilà, c'est opérationnel.
 ### Mises à jour ultérieures
 
 1. Lancez le script `update.sh` pour mettre à jour toutes les applications qui le nécessitent.
-
-## TL;DR réservé à Nicolas
-
-Cette automatisation supplémentaire lance directement l'installation de **ma propre sélection** d'applications :
-
-```shell
-$ curl -sfL https://nhoizey.github.io/macOS-init/run.sh | sh
-```
